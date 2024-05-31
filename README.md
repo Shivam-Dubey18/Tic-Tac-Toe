@@ -11,9 +11,10 @@ Welcome to the Tic-Tac-Toe Game, a simple and fun game built using HTML, CSS, an
 
 ## Demo 🎮
 
-[Live Demo](https://your-demo-link.com)
+[Live Demo](https://shivam-dubey18.github.io/Tic-Tac-Toe/)
 
-![Tic-Tac-Toe Game](https://your-image-link.com)
+![image](https://github.com/Shivam-Dubey18/Tic-Tac-Toe/assets/152854367/98709720-3405-46c8-8384-27eeb293ff5b)
+
 
 ## Getting Started 🚀
 
@@ -27,10 +28,10 @@ Follow these instructions to set up and play the game locally.
 ### Installation
 
 1. Clone the repository
-   `git clone https://github.com/YourUsername/TicTacToe.git`
+   `git clone https://github.com/Shivam-Dubey18/Tic-Tac-Toe.git`
 
 2. Navigate to the project directory
-   `cd TicTacToe`
+   `cd Tic-Tac-Toe`
 
 3. Open `index.html` in your web browser
    - Right-click on `index.html` and select "Open with" followed by your preferred web browser.
